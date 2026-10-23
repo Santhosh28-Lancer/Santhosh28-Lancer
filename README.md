@@ -42,7 +42,7 @@ A personal project focused on fitness and fasting tracking.
 
 **AI & data:** Machine Learning · Generative AI · Data Analysis
 
-**Tools:** Git · GitHub · VS Code
+**Tools:** Git · GitHub · VS Code · Android Studio 
 
 *This list reflects current areas of work and interest; it will evolve with the projects.*
 
